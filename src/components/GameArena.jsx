@@ -9,19 +9,19 @@ export const NB_COLUMNS = 7;
 export const FLOOR_HEIGHT = 10;
 export const FLOORS = [
   {
-    color: "white",
+    color: "green",
   },
   {
-    color: "white",
+    color: "green",
   },
   {
-    color: "white",
+    color: "yellow",
   },
   {
-    color: "white",
+    color: "yellow",
   },
   {
-    color: "white",
+    color: "red",
   },
 ];
 
