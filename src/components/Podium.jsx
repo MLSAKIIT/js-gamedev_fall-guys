@@ -14,7 +14,7 @@ export const Podium = () => {
   useEffect(() => {
     camera.position.set(5, 4, 12);
     camera.lookAt(0, 2, 0);
-    playAudio("Kids Cheering", true);
+    playAudio("kids cheering", true);
     return () => {
       camera.position.set(0, 16, 10);
       camera.lookAt(0, 0, 0);
